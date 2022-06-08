@@ -1,3 +1,17 @@
-.wow {
-  width: 100px;
+body {
+  background-color: #d494ff;
+}
+
+h1 {
+  background-color: #ffb3f1;
+  color: #cf76fe;
+  padding: 40px;
+  text-align: center;
+}
+
+#hello-world {
+  background-color: #b406fe;
+  color: #bf6bff;
+  padding: 20px;
+  text-align: center;
 }
